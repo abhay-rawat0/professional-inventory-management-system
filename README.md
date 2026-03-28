@@ -65,4 +65,4 @@ professional-inventory-management-system/
 │
 ├── inventory_management.py
 ├── README.md
-├── requirements.txt
+
